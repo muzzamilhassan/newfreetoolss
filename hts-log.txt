@@ -1,0 +1,36 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 16 Dec 2024 10:24:25 at https://newfreetool.com/en/home +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://newfreetool.com/en/home -O1 "D:\New folder\newfreetools\newfreetoolss" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:24:55	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://newfreetool.com/en/home)
+10:25:27	Error: 	"Not Found" (404) at link https://newfreetool.com/themes/abctots/img/ornaments/numbers1.png (from https://newfreetool.com/public/assets/frontend/css/custom.css)
+10:25:27	Error: 	"Not Found" (404) at link https://newfreetool.com/themes/abctots/img/ornaments/numbers2.png (from https://newfreetool.com/public/assets/frontend/css/custom.css)
+10:25:27	Error: 	"Not Found" (404) at link https://newfreetool.com/themes/abctots/img/ornaments/doodlesbg.png (from https://newfreetool.com/public/assets/frontend/css/custom.css)
+10:25:27	Error: 	"Not Found" (404) at link https://newfreetool.com/themes/abctots/img/call-to-action/counterbg.jpg (from https://newfreetool.com/public/assets/frontend/css/custom.css)
+10:25:27	Error: 	"Not Found" (404) at link https://newfreetool.com/themes/abctots/img/ornaments/childrenbg.png (from https://newfreetool.com/public/assets/frontend/css/custom.css)
+10:25:27	Error: 	"Not Found" (404) at link https://newfreetool.com/themes/abctots/img/call-to-action/callout.jpg (from https://newfreetool.com/public/assets/frontend/css/custom.css)
+10:25:27	Error: 	"Not Found" (404) at link https://newfreetool.com/themes/abctots/img/call-to-action/enroll.png (from https://newfreetool.com/public/assets/frontend/css/custom.css)
+10:25:27	Error: 	"Not Found" (404) at link https://newfreetool.com/themes/abctots/img/example.jpg (from https://newfreetool.com/public/assets/frontend/css/custom.css)
+10:25:27	Error: 	"Not Found" (404) at link https://newfreetool.com/themes/abctots/img/ornaments/ornament1.png (from https://newfreetool.com/public/assets/frontend/css/custom.css)
+10:25:27	Error: 	"Not Found" (404) at link https://newfreetool.com/themes/abctots/img/ornaments/ornament2.png (from https://newfreetool.com/public/assets/frontend/css/custom.css)
+10:25:27	Error: 	"Not Found" (404) at link https://newfreetool.com/themes/abctots/img/ornaments/ornament3.png (from https://newfreetool.com/public/assets/frontend/css/custom.css)
+10:25:27	Error: 	"Not Found" (404) at link https://newfreetool.com/themes/abctots/img/ornaments/pattern2.png (from https://newfreetool.com/public/assets/frontend/css/custom.css)
+10:25:27	Error: 	"Not Found" (404) at link https://newfreetool.com/themes/abctots/img/jumbotron.jpg (from https://newfreetool.com/public/assets/frontend/css/custom.css)
+10:25:27	Error: 	"Not Found" (404) at link https://newfreetool.com/en/cropped_image.jpg (from https://newfreetool.com/en/online-image-cropper)
+10:25:27	Error: 	"Method Not Allowed" (405) at link https://newfreetool.com/en/generate-password-action (from https://newfreetool.com/en/random-password-generator)
+10:25:27	Error: 	"Not Found" (404) at link https://newfreetool.com/en/converted-image.jpg (from https://newfreetool.com/en/convert-png-into-jpg-online)
+10:25:27	Error: 	"Method Not Allowed" (405) at link https://newfreetool.com/en/calculate-age (from https://newfreetool.com/en/dob-calculator)
+10:25:27	Error: 	"Not Found" (404) at link https://newfreetool.com/en/converted.mp3 (from https://newfreetool.com/en/convert-mp4-to-mp3)
+10:25:27	Error: 	"Not Found" (404) at link https://newfreetool.com/en/converted.pdf (from https://newfreetool.com/en/jpg-to-pdf-converter)
+10:25:27	Error: 	"Not Found" (404) at link https://newfreetool.com/en/work_hours_calculator_results.pdf (from https://newfreetool.com/en/work-hours-calculator)
+10:25:27	Error: 	"Not Found" (404) at link https://newfreetool.com/en/vat_calculator_results.pdf (from https://newfreetool.com/en/vat-calculator)
+10:25:27	Error: 	"Not Found" (404) at link https://cdnjs.cloudflare.com/ajax/libs/vuedraggable/2.24.3/vuedraggable.umd.min.js (from https://newfreetool.com/en/pomodoro-timer)
+10:25:27	Error: 	"Not Found" (404) at link https://cdn.jsdelivr.net/npm/recorder-js@latest/dist/recorder.js (from https://newfreetool.com/en/voice-recorder)
+10:25:27	Error: 	"Not Found" (404) at link https://stackpath.bootstrapcdn.com/bootstrap/5.1.3/js/bootstrap.bundle.min.js (from https://newfreetool.com/en/author)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 2 seconds : 139 links scanned, 113 files written (7970244 bytes overall) [8923401 bytes received at 143925 bytes/sec], 1727092 bytes transferred using HTTP compression in 25 files, ratio 27%, 5.7 requests per connection
+(25 errors, 0 warnings, 0 messages)
